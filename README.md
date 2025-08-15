@@ -11,7 +11,7 @@ User-friendly web interface built with HTML & Flask.
 Lightweight and easy to run locally or on cloud hosting.
 
 🛠️ Technologies Used
-Python 3.x
+Python 3
 
 Flask (Web framework)
 
