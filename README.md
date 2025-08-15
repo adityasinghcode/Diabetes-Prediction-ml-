@@ -26,7 +26,7 @@ Joblib (Model serialization)
 git clone https://github.com/adityasinghcode/diabetes-prediction-ml.git
 cd Diabetes-Prediction-ml
 
-python -m venv venv
+python -m venv myenv
 
 pip install -r requirements.txt
 
